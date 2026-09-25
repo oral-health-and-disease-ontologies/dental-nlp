@@ -1,14 +1,19 @@
-# Dental Fear and Anxiety (DFA) NLP
+# Dental-NLP
 
-Natural language processing (NLP) and machine learning methods for analyzing scientific literature related to Dental Fear and Anxiety (DFA).
+Dental-NLP is a collection of Natural language processing (NLP) and machine learning projects for extracting, organizing, and analyzing information from scientific literature in the dental domain.
 
 ## Motivation
 
-The Dental Fear & Anxiety (DFA) project supports research into the psychological, behavioral, and experiential factors associated with dental fear and anxiety. 
+The repository brings together multiple research workflows addressing different areas of dentistry, including dental materials, dental fear and anxiety, and other dental-related informtation extraction tasks. 
 
-The goal of DFA-NLP is to apply natural language processing and machine learning methods to reduce the manual effort required for acquiring and analyzing information from scientific literature and to streamline the ontology-building process.
+Dental-NLP explores the use of NLP methods for:
+
+- Scientific literature processing and analysis
+- Named entity recognition (NER)
+- Domain-specific informaiton extraction
+- Structured knowledge representation and ontology development
 
 ## Projects
 
-This repository contains Python-based tools and workflows that support the DFA project by automatically retrieving, organizing, processing, and analyzing scientific literature.
+This repository contains Python-based apllicaitons and workflows related to dental research. Each proj
 
