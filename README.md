@@ -15,5 +15,5 @@ Dental-NLP explores the use of NLP methods for:
 
 ## Projects
 
-This repository contains Python-based apllicaitons and workflows related to dental research. Each proj
+This repository contains Python-based apllicaitons and workflows related to dental research. 
 
